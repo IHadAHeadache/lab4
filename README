@@ -1,0 +1,8 @@
+A:
+00000000004004ed T _Z7averagePdRd
+B:
+1 8
+4 8
+4 8
+8 8
+first number is the size of the type, and the second number is the size of the adress for any type.
